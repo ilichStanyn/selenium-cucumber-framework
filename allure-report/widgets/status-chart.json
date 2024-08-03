@@ -1,0 +1,1 @@
+[{"uid":"4662a4e8bf35ab72","name":"Login exitoso 30","time":{"start":1722654839138,"stop":1722654955550,"duration":116412},"status":"passed","severity":"normal"},{"uid":"1d8284e0236580e6","name":"Login exitoso 40","time":{"start":1722654955567,"stop":1722655092739,"duration":137172},"status":"broken","severity":"normal"}]

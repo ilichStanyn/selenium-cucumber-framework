@@ -1,0 +1,8 @@
+00:14:00.191 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+00:14:00.215 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+00:14:01.842 INFO  AUTOMATION - Navegando hacia la pagina principal
+00:15:03.735 INFO  AUTOMATION - Validando que no encontramos en la pagina indicada
+00:15:55.606 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+00:15:55.626 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+00:15:56.405 INFO  AUTOMATION - Navegando hacia la pagina principal
+00:18:05.204 INFO  AUTOMATION - Validando que no encontramos en la pagina indicada
